@@ -26,7 +26,8 @@ h2 {
     top: -175px;
     right: 0px;
 }
-#anchors:hover {
+#anchors {
+    color: white;
     font-weight: bold;
     font-size: 18px;
 }
