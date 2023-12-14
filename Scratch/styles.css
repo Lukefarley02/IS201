@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(27, 172, 27); /* Custom background color */
+    font-family: Arial, sans-serif; /* Font family */
+    color: rgb(165, 12, 12); /* Font color */
+}
+.title {
+    text-align: center;
+}
+.about-inf {
+    width: 500px;
+
+}
+h2 {
+    text-decoration-line: underline;
+}
+.goat-image{
+    position: absolute;
+    top: -16px;
+    right: -706px;
+}
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: -175px;
+    right: 0px;
+}
+#anchors:hover {
+    font-weight: bold;
+    font-size: 18px;
+}
